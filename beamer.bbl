@@ -1,0 +1,91 @@
+\begin{thebibliography}{10}
+
+\bibitem{Blondel2008}
+Vincent~D. Blondel, Jean-Loup Guillaume, Renaud Lambiotte, and Etienne
+  Lefebvre.
+\newblock {Fast unfolding of communities in large networks}.
+\newblock page~6, March 2008.
+
+\bibitem{Clauset2004}
+Aaron Clauset, M.~E.~J. Newman, and Cristopher Moore.
+\newblock {Finding community structure in very large networks}.
+\newblock pages 1--6, August 2004.
+
+\bibitem{Davis2008}
+George~B. Davis and Kathleen~M. Carley.
+\newblock {Clearing the FOG: Fuzzy, overlapping groups for social networks}.
+\newblock {\em Social Networks}, 30(3):201--212, July 2008.
+
+\bibitem{Garas2008}
+a.~Garas, P.~Argyrakis, and S.~Havlin.
+\newblock {The structural role of weak and strong links in a financial market
+  network}.
+\newblock {\em The European Physical Journal B}, 63(2):265--271, June 2008.
+
+\bibitem{Girvan2001}
+Michelle Girvan and M~E~J Newman.
+\newblock {Community Structure in Social and Biological Networks}.
+\newblock 2001.
+
+\bibitem{Goldberg}
+A.V Goldberg.
+\newblock {Finding a Maximum Density Subgraph.pdf}.
+
+\bibitem{Gregory2007}
+Steve Gregory.
+\newblock {An Algorithm to Find Overlapping Community Structure in Networks}.
+\newblock pages 91--102, 2007.
+
+\bibitem{Mantegna1999}
+R~N Mantegna.
+\newblock {P HYSICAL J OURNAL B}.
+\newblock 197:193--197, 1999.
+
+\bibitem{Newman}
+M~E~J Newman.
+\newblock {Finding community structure in networks using the eigenvectors of
+  matrices}.
+
+\bibitem{Onnela2004}
+J.-P. Onnela, K.~Kaski, and J.~Kertesz.
+\newblock {Clustering and information in correlation based financial networks}.
+\newblock {\em The European Physical Journal B - Condensed Matter},
+  38(2):353--362, March 2004.
+
+\bibitem{Raghavan2007}
+Usha~Nandini Raghavan, Reka Albert, and Soundar Kumara.
+\newblock {Near linear time algorithm to detect community structures in
+  large-scale networks}.
+\newblock page~12, September 2007.
+
+\bibitem{Rosvall2008}
+Martin Rosvall and Carl~T Bergstrom.
+\newblock {Maps of random walks on complex networks reveal community
+  structure.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 105(4):1118--23, January 2008.
+
+\bibitem{Trevisan2008}
+Luca Trevisan.
+\newblock {Max Cut and the Smallest Eigenvalue}.
+\newblock 2008.
+
+\bibitem{WarrenLiao2005}
+T.~{Warren Liao}.
+\newblock {Clustering of time series data—a survey}.
+\newblock {\em Pattern Recognition}, 38(11):1857--1874, November 2005.
+
+\bibitem{Williamson1994}
+P~Williamson, Nonumerical Algorithms, and D~P Williamson.
+\newblock {Improved Maximum Approximation Algorithms for Using Cut and
+  Satisfiability Programming Problems Semidefinite}.
+\newblock 42(6):1115--1145, 1994.
+
+\bibitem{Yang2012}
+Jaewon Yang and Jure Leskovec.
+\newblock {Community-Affiliation Graph Model for Overlapping Network Community
+  Detection}.
+\newblock {\em 2012 IEEE 12th International Conference on Data Mining},
+  1:1170--1175, December 2012.
+
+\end{thebibliography}

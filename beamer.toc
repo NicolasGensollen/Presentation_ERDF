@@ -1,0 +1,8 @@
+\beamer@endinputifotherversion {3.26pt}
+\select@language {french}
+\beamer@sectionintoc {1}{Objective}{3}{0}{1}
+\beamer@sectionintoc {2}{Challenges}{4}{0}{2}
+\beamer@sectionintoc {3}{Data Issues}{7}{0}{3}
+\beamer@sectionintoc {4}{Our Method}{9}{0}{4}
+\beamer@sectionintoc {5}{Some Results}{10}{0}{5}
+\beamer@sectionintoc {6}{Conclusion and Perspectives}{12}{0}{6}
