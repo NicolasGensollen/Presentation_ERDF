@@ -93,11 +93,11 @@
 	\begin{small}
 	\begin{itemize}
 		\item Data/Communication oriented
-		\item \textbf{Prosumer} scenario (agents consumme, produce, and sell to the grid)
+		\item \textbf{Prosumer} scenario (agents consume, produce, and sell to the grid)
 		\item \textbf{Minimizing} the amount of \textbf{communication} needed to maintain stability
 		\item Avoid communication \textbf{bottlenecks}
-		\item Organizing prosumers into virtual \textbf{coalitions} (geographical distances are abstracted)
-		\item Reduce the "\textit{grid to agents}" type of communication flows
+		\item Organizing prosumers into virtual (logical rather than physical) \textbf{coalitions} (geographical distances are abstracted)
+		\item Reduce the "\textit{grid to agents}" communication flows
 		\item How should these coalitions be formed ?
 	\end{itemize}		
 	\end{small}
@@ -121,13 +121,13 @@
 	\begin{itemize}
 		\item Suppose coalitions are formed \textbf{on day d for day $ d +1 $}
 		\item A \textbf{contract value} is decided for each coalition
-		\item Over day $ d +1 $, coalition net productions are likely to oscillates because :
+		\item Over day $ d +1 $, coalition net productions are likely to oscillate because :
 			\begin{itemize}
 				\item {\scriptsize agents \textbf{consume freely}}
 				\item {\scriptsize production is based on \textbf{renewables} (lots of \textbf{uncertainties})}
 			\end{itemize}
 		\item BUT, for the grid operator, coalition \textbf{productions should remain stable} at their contract values
-		\item Coalitions need \textbf{communication} to take actions (battery charge/discharge, load scheding, backup generators)
+		\item Coalitions need \textbf{communication} to take actions (battery charge/discharge, load shedding, backup generators)
 	\end{itemize}
 	\end{footnotesize}
 	
@@ -194,15 +194,15 @@
 	\begin{columns}
 		\begin{column}{.5 \linewidth}
 			\begin{figure}
-				\includegraphics[scale=.4]{rond_carre_1.pdf}
+				\includegraphics[scale=.4]{2_agents.pdf}
 			\end{figure}
 		\end{column}
 		\begin{column}{.5 \linewidth}
 			\begin{figure}
-				\includegraphics[scale=.35]{rond_carre_2.pdf}
+				\includegraphics[scale=.36]{10_agents.pdf}
 			\end{figure}
 			\begin{figure}
-				\includegraphics[scale=.35]{rond_carre_3.pdf}
+				\includegraphics[scale=.36]{50_agents.pdf}
 			\end{figure}
 		\end{column}
 	\end{columns}		

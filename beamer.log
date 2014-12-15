@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/W32TeX) (format=pdflatex 2013.1.17)  12 DEC 2014 11:32
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/W32TeX) (format=pdflatex 2013.1.17)  15 DEC 2014 21:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1626,29 +1626,29 @@ Overfull \hbox (169.33415pt too wide) has occurred while \output is active
 
 pdfTeX warning: pdflatex.exe (file ./distri.pdf): PDF inclusion: multiple pdfs 
 with page group included in a single page
->] <rond_carre_1.pdf, id=407, 433.62pt x 289.08pt>
-File: rond_carre_1.pdf Graphic file (type pdf)
- <use rond_carre_1.pdf>
-Package pdftex.def Info: rond_carre_1.pdf used on input line 210.
+>] <2_agents.pdf, id=407, 433.62pt x 289.08pt>
+File: 2_agents.pdf Graphic file (type pdf)
+ <use 2_agents.pdf>
+Package pdftex.def Info: 2_agents.pdf used on input line 210.
 (pdftex.def)             Requested size: 173.44492pt x 115.62994pt.
 
 Overfull \hbox (2.22726pt too wide) in paragraph at lines 210--210
  [] 
  []
 
-<rond_carre_2.pdf, id=408, 433.62pt x 289.08pt>
-File: rond_carre_2.pdf Graphic file (type pdf)
- <use rond_carre_2.pdf>
-Package pdftex.def Info: rond_carre_2.pdf used on input line 210.
-(pdftex.def)             Requested size: 151.76927pt x 101.1795pt.
+<10_agents.pdf, id=408, 433.62pt x 289.08pt>
+File: 10_agents.pdf Graphic file (type pdf)
+ <use 10_agents.pdf>
+Package pdftex.def Info: 10_agents.pdf used on input line 210.
+(pdftex.def)             Requested size: 156.10307pt x 104.06871pt.
 
-<rond_carre_3.pdf, id=409, 433.62pt x 289.08pt>
-File: rond_carre_3.pdf Graphic file (type pdf)
- <use rond_carre_3.pdf>
-Package pdftex.def Info: rond_carre_3.pdf used on input line 210.
-(pdftex.def)             Requested size: 151.76927pt x 101.1795pt.
+<50_agents.pdf, id=409, 433.62pt x 289.08pt>
+File: 50_agents.pdf Graphic file (type pdf)
+ <use 50_agents.pdf>
+Package pdftex.def Info: 50_agents.pdf used on input line 210.
+(pdftex.def)             Requested size: 156.10307pt x 104.06871pt.
 
-Overfull \vbox (3.53326pt too high) detected at line 210
+Overfull \vbox (9.31168pt too high) detected at line 210
  []
 
 
@@ -1663,22 +1663,22 @@ Overfull \hbox (169.33415pt too wide) has occurred while \output is active
 
 [6
 
- <./rond_carre_1.pdf> <./rond_carre_2.pdf
+ <./2_agents.pdf> <./10_agents.pdf
 
-pdfTeX warning: pdflatex.exe (file ./rond_carre_2.pdf): PDF inclusion: multiple
- pdfs with page group included in a single page
-> <./rond_carre_3.pdf
+pdfTeX warning: pdflatex.exe (file ./10_agents.pdf): PDF inclusion: multiple pd
+fs with page group included in a single page
+> <./50_agents.pdf
 
-pdfTeX warning: pdflatex.exe (file ./rond_carre_3.pdf): PDF inclusion: multiple
- pdfs with page group included in a single page
->] <wind_distributions.pdf, id=559, 289.08pt x 216.81pt>
+pdfTeX warning: pdflatex.exe (file ./50_agents.pdf): PDF inclusion: multiple pd
+fs with page group included in a single page
+>] <wind_distributions.pdf, id=544, 289.08pt x 216.81pt>
 File: wind_distributions.pdf Graphic file (type pdf)
 
 <use wind_distributions.pdf>
 Package pdftex.def Info: wind_distributions.pdf used on input line 242.
 (pdftex.def)             Requested size: 86.72466pt x 65.04349pt.
 
-<solar_distributions.pdf, id=560, 289.08pt x 216.81pt>
+<solar_distributions.pdf, id=545, 289.08pt x 216.81pt>
 File: solar_distributions.pdf Graphic file (type pdf)
 
 <use solar_distributions.pdf>
@@ -1718,7 +1718,7 @@ Overfull \hbox (8.40706pt too wide) in paragraph at lines 304--304
 [][]  
  []
 
-<power_curve.png, id=698, 380.01974pt x 302.3295pt>
+<power_curve.png, id=683, 380.01974pt x 302.3295pt>
 File: power_curve.png Graphic file (type png)
  <use power_curve.png>
 Package pdftex.def Info: power_curve.png used on input line 304.
@@ -1739,7 +1739,7 @@ Overfull \hbox (169.33415pt too wide) has occurred while \output is active
 
 [8
 
- <./power_curve.png>] <Fig2.pdf, id=725, 614.295pt x 794.97pt>
+ <./power_curve.png>] <Fig2.pdf, id=710, 614.295pt x 794.97pt>
 File: Fig2.pdf Graphic file (type pdf)
 
 <use Fig2.pdf>
@@ -1761,13 +1761,13 @@ Overfull \hbox (169.33415pt too wide) has occurred while \output is active
 
 [9
 
- <./Fig2.pdf>] <coals.pdf, id=818, 289.08pt x 216.81pt>
+ <./Fig2.pdf>] <coals.pdf, id=803, 289.08pt x 216.81pt>
 File: coals.pdf Graphic file (type pdf)
  <use coals.pdf>
 Package pdftex.def Info: coals.pdf used on input line 360.
 (pdftex.def)             Requested size: 144.53964pt x 108.40472pt.
 
-<fig8.pdf, id=819, 1084.05pt x 361.35pt>
+<fig8.pdf, id=804, 1084.05pt x 361.35pt>
 File: fig8.pdf Graphic file (type pdf)
  <use fig8.pdf>
 Package pdftex.def Info: fig8.pdf used on input line 360.
@@ -1793,27 +1793,27 @@ Overfull \hbox (172.52165pt too wide) has occurred while \output is active
 
 pdfTeX warning: pdflatex.exe (file ./fig8.pdf): PDF inclusion: multiple pdfs wi
 th page group included in a single page
->] <Overlap.png, id=999, 1027.84pt x 791.95876pt>
+>] <Overlap.png, id=984, 1027.84pt x 791.95876pt>
 File: Overlap.png Graphic file (type png)
  <use Overlap.png>
 Package pdftex.def Info: Overlap.png used on input line 380.
 (pdftex.def)             Requested size: 154.16934pt x 118.78868pt.
 
-<resilience_tar_rand.pdf, id=1001, 433.62pt x 289.08pt>
+<resilience_tar_rand.pdf, id=986, 433.62pt x 289.08pt>
 File: resilience_tar_rand.pdf Graphic file (type pdf)
 
 <use resilience_tar_rand.pdf>
 Package pdftex.def Info: resilience_tar_rand.pdf used on input line 380.
 (pdftex.def)             Requested size: 151.76927pt x 101.1795pt.
 
-<resilience_without.pdf, id=1002, 433.62pt x 289.08pt>
+<resilience_without.pdf, id=987, 433.62pt x 289.08pt>
 File: resilience_without.pdf Graphic file (type pdf)
 
 <use resilience_without.pdf>
 Package pdftex.def Info: resilience_without.pdf used on input line 380.
 (pdftex.def)             Requested size: 151.76927pt x 101.1795pt.
 
-<resilience_with.pdf, id=1003, 433.62pt x 289.08pt>
+<resilience_with.pdf, id=988, 433.62pt x 289.08pt>
 File: resilience_with.pdf Graphic file (type pdf)
  <use resilience_with.pdf>
 Package pdftex.def Info: resilience_with.pdf used on input line 380.
@@ -1875,7 +1875,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 405.
  ) 
 Here is how much of TeX's memory you used:
  23277 strings out of 493488
- 454531 string characters out of 3144748
+ 454481 string characters out of 3144748
  583320 words of memory out of 3000000
  25915 multiletter control sequences out of 15000+200000
  62979 words of font info for 62 fonts, out of 3000000 for 9000
@@ -1900,10 +1900,10 @@ ts/type1/public/lm/lmsso8.pfb><c:/texlive/2012/texmf-dist/fonts/type1/public/lm
 xlive/2012/texmf-dist/fonts/type1/public/lm/lmtt8.pfb><c:/texlive/2012/texmf-di
 st/fonts/type1/public/amsfonts/symbols/msam7.pfb><c:/texlive/2012/texmf-dist/fo
 nts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on beamer.pdf (12 pages, 1879625 bytes).
+Output written on beamer.pdf (12 pages, 1912179 bytes).
 PDF statistics:
- 1262 PDF objects out of 1440 (max. 8388607)
- 600 compressed objects within 6 object streams
+ 1248 PDF objects out of 1440 (max. 8388607)
+ 608 compressed objects within 7 object streams
  47 named destinations out of 1000 (max. 500000)
  314 words of extra memory for PDF output out of 10000 (max. 10000000)
 
