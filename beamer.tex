@@ -40,7 +40,7 @@
 \usecolortheme[named=Brown]{structure}
 \usetheme[height=7mm]{Rochester}
 
-\title{Coalition Formation Algorithm of Prosumers in a Smart Grid Environment}
+\title[Coalition of Prosumers]{Coalition Formation Algorithm of Prosumers in a Smart Grid Environment}
 \author[N. Gensollen]{\textbf{Nicolas Gensollen}, Vincent Gauthier, Monique Becker, Micher Marot}
 \institute[TSP]{
   CNRS SAMOVAR, Telecom SudParis\\
@@ -56,6 +56,7 @@
 % Main Document
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setbeamertemplate{footline}[frame number]
 \begin{document}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -373,7 +374,7 @@
 	\end{figure}
 	
 	\begin{figure}
-		\includegraphics[scale=.35]{resilience_without}
+		\includegraphics[scale=.35]{resilience_without.pdf}
 		\includegraphics[scale=.35]{resilience_with.pdf}
 	\end{figure}
 
@@ -390,13 +391,20 @@
 \begin{frame}
 	\frametitle{Conclusion and Perspectives}
 
+	\textit{Up to now :}
 	\begin{itemize}
 		\item Communication oriented
 		\item Modeling, simulations
 		\item Use of statistical tools, complex systems, graph theory
 		\item Lack of available "clean" data led us to construct our own "\textit{traces generator}"
 		\item Stong assumptions on the electrical part
-		\item Studying the impact of electric constraints on the model could lead to an interesting and more realistic work
+	\end{itemize}
+	
+	\textit{Several ways for improving :}
+	\begin{itemize}
+		\item Using \textbf{real}, more \textbf{realistic data} as inputs
+		\item Studying the impact of \textbf{electric constraints} on the model 
+		\item Could lead to interesting and more realistic work
 	\end{itemize}		
 	
 \end{frame}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/W32TeX) (format=pdflatex 2013.1.17)  15 DEC 2014 21:12
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/W32TeX) (format=pdflatex 2013.1.17)  16 DEC 2014 10:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1286,20 +1286,20 @@ Package: beamercolorthemeorchid 2010/06/17  (rcs-revision d02a7cf4d8ae)
 )) (./beamer.aux)
 \openout1 = `beamer.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1365,7 +1365,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box103
-Package hyperref Info: Link coloring OFF on input line 59.
+Package hyperref Info: Link coloring OFF on input line 60.
 
 (c:/texlive/2012/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1375,56 +1375,56 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count203
 )
-LaTeX Info: Redefining \ref on input line 59.
-LaTeX Info: Redefining \pageref on input line 59.
-LaTeX Info: Redefining \nameref on input line 59.
+LaTeX Info: Redefining \ref on input line 60.
+LaTeX Info: Redefining \pageref on input line 60.
+LaTeX Info: Redefining \nameref on input line 60.
 
 (./beamer.out) (./beamer.out)
 \@outlinefile=\write5
 \openout5 = `beamer.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 59.
+(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 60.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/lmr/bx/n --> OT1/cmss/bx/n on input line 59.
+(Font)                  OT1/lmr/bx/n --> OT1/cmss/bx/n on input line 60.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/lmr/m/n on input line 59.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 59.
+(Font)                  OT1/cmss/m/n --> T1/lmr/m/n on input line 60.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/lmr/bx/n --> T1/lmss/bx/n on input line 59.
+(Font)                  OT1/lmr/bx/n --> T1/lmss/bx/n on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/lmr/bx/n --> T1/lmss/bx/n on input line 59.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 59.
+(Font)                  OT1/lmr/bx/n --> T1/lmss/bx/n on input line 60.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/lmss/m/n --> T1/lmss/m/n on input line 59.
+(Font)                  OT1/lmss/m/n --> T1/lmss/m/n on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> T1/lmss/m/n on input line 59.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 59.
+(Font)                  OT1/lmss/bx/n --> T1/lmss/m/n on input line 60.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/lmr/m/it --> T1/lmss/m/it on input line 59.
+(Font)                  OT1/lmr/m/it --> T1/lmss/m/it on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/lmr/bx/it --> T1/lmss/m/it on input line 59.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 59.
+(Font)                  OT1/lmr/bx/it --> T1/lmss/m/it on input line 60.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 59.
+(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 59.
+(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 60.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/lmss/m/n --> T1/lmss/bx/n on input line 59.
+(Font)                  T1/lmss/m/n --> T1/lmss/bx/n on input line 60.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/lmss/m/it --> T1/lmss/bx/it on input line 59.
+(Font)                  T1/lmss/m/it --> T1/lmss/bx/it on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/lmr/bx/n on input line 59.
+(Font)                  OT1/cmss/bx/n --> T1/lmr/bx/n on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/lmss/bx/n --> T1/lmss/bx/n on input line 59.
+(Font)                  T1/lmss/bx/n --> T1/lmss/bx/n on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/lmss/m/n --> T1/lmss/bx/n on input line 59.
+(Font)                  T1/lmss/m/n --> T1/lmss/bx/n on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/lmss/m/it --> T1/lmss/bx/it on input line 59.
+(Font)                  T1/lmss/m/it --> T1/lmss/bx/it on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/lmtt/m/n --> T1/lmtt/bx/n on input line 59.
+(Font)                  T1/lmtt/m/n --> T1/lmtt/bx/n on input line 60.
 
 (c:/texlive/2012/texmf-dist/tex/latex/beamer/translator/dicts/translator-basic-
 dictionary/translator-basic-dictionary-English.dict
@@ -1450,79 +1450,43 @@ Dictionary: translator-numbers-dictionary, Language: English
 m-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 59.
+LaTeX Info: Redefining \includegraphics on input line 60.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \degres on input line 59.
+LaTeX Info: Redefining \degres on input line 60.
 
 
 Package frenchb.ldf Warning: The definition of \@makecaption has been changed,
 (frenchb.ldf)                frenchb will NOT customise it;
-(frenchb.ldf)                reported on input line 59.
+(frenchb.ldf)                reported on input line 60.
 
-LaTeX Info: Redefining \dots on input line 59.
-LaTeX Info: Redefining \up on input line 59.
-(./beamer.nav)
-Overfull \hbox (76.43083pt too wide) in paragraph at lines 59--59
- [][][][]  
- []
+LaTeX Info: Redefining \dots on input line 60.
+LaTeX Info: Redefining \up on input line 60.
+(./beamer.nav) (./beamer.bbl)
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 71.
 
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <9> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 59.
-
-Overfull \hbox (168.30638pt too wide) in paragraph at lines 59--59
- [][]|  \T1/lmss/m/n/6 0
- []
-
-(./beamer.bbl)
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 70.
- (c:/texlive/2012/texmf-dist/tex/latex/lm/t1lmtt.fd
+(c:/texlive/2012/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Overfull \hbox (76.43083pt too wide) has occurred while \output is active
- [][][][]  
- []
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <9> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 71.
+ [1
 
-
-Overfull \hbox (169.33415pt too wide) has occurred while \output is active
- [][]|  \T1/lmss/m/n/6 1
- []
-
-[1
-
-{c:/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./beamer.toc)
-Overfull \hbox (76.43083pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-
-Overfull \hbox (169.33415pt too wide) has occurred while \output is active
- [][]|  \T1/lmss/m/n/6 2
- []
-
+{c:/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./beamer.toc) 
 [2
 
 ]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 109.
- <coalition_communication.pdf, id=151, 433.62pt x 289.08pt>
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 110.
+
+<coalition_communication.pdf, id=148, 433.62pt x 289.08pt>
 File: coalition_communication.pdf Graphic file (type pdf)
 
 <use coalition_communication.pdf>
-Package pdftex.def Info: coalition_communication.pdf used on input line 109.
+Package pdftex.def Info: coalition_communication.pdf used on input line 110.
 (pdftex.def)             Requested size: 173.44492pt x 115.62994pt.
 
-Overfull \vbox (22.8042pt too high) detected at line 109
- []
-
-
-Overfull \hbox (76.43083pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-
-Overfull \hbox (169.33415pt too wide) has occurred while \output is active
- [][]|  \T1/lmss/m/n/6 3
+Overfull \vbox (22.13773pt too high) detected at line 110
  []
 
 [3
@@ -1532,93 +1496,74 @@ Overfull \hbox (169.33415pt too wide) has occurred while \output is active
 pdfTeX warning: pdflatex.exe (file ./coalition_communication.pdf): PDF inclusio
 n: multiple pdfs with page group included in a single page
 >]
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 145.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 146.
 
  (c:/texlive/2012/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 145
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 146
 .
 
 (c:/texlive/2012/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 145
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 146
 .
 
 (c:/texlive/2012/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 145.
+(Font)              <9> on input line 146.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 145.
+(Font)              <6> on input line 146.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 145.
-LaTeX Font Info:    Try loading font information for U+msa on input line 145.
+(Font)              <5> on input line 146.
+LaTeX Font Info:    Try loading font information for U+msa on input line 146.
 
 (c:/texlive/2012/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 145.
+LaTeX Font Info:    Try loading font information for U+msb on input line 146.
 
 (c:/texlive/2012/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 145.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 146.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 145.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 146.
 
-<production.pdf, id=216, 433.62pt x 289.08pt>
+<production.pdf, id=212, 433.62pt x 289.08pt>
 File: production.pdf Graphic file (type pdf)
  <use production.pdf>
-Package pdftex.def Info: production.pdf used on input line 145.
+Package pdftex.def Info: production.pdf used on input line 146.
 (pdftex.def)             Requested size: 164.77731pt x 109.85153pt.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 145.
+(Font)              <10.95> on input line 146.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 145.
+(Font)              <8> on input line 146.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 145.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 146.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 145.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 146.
 
-Overfull \vbox (6.27579pt too high) detected at line 145
- []
-
-
-Overfull \hbox (76.43083pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-
-Overfull \hbox (169.33415pt too wide) has occurred while \output is active
- [][]|  \T1/lmss/m/n/6 4
+Overfull \vbox (5.60931pt too high) detected at line 146
  []
 
 [4
 
- <./production.pdf>] <example_1.pdf, id=299, 578.16pt x 361.35pt>
+ <./production.pdf>] <example_1.pdf, id=294, 578.16pt x 361.35pt>
 File: example_1.pdf Graphic file (type pdf)
 
 <use example_1.pdf>
-Package pdftex.def Info: example_1.pdf used on input line 183.
+Package pdftex.def Info: example_1.pdf used on input line 184.
 (pdftex.def)             Requested size: 144.53964pt x 90.33728pt.
- <distri.pdf, id=300, 433.62pt x 289.08pt>
+ <distri.pdf, id=295, 433.62pt x 289.08pt>
 File: distri.pdf Graphic file (type pdf)
  <use distri.pdf>
-Package pdftex.def Info: distri.pdf used on input line 183.
+Package pdftex.def Info: distri.pdf used on input line 184.
 (pdftex.def)             Requested size: 130.087pt x 86.72466pt.
-
-Overfull \hbox (76.43083pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-
-Overfull \hbox (169.33415pt too wide) has occurred while \output is active
- [][]|  \T1/lmss/m/n/6 5
- []
 
 [5
 
@@ -1626,39 +1571,29 @@ Overfull \hbox (169.33415pt too wide) has occurred while \output is active
 
 pdfTeX warning: pdflatex.exe (file ./distri.pdf): PDF inclusion: multiple pdfs 
 with page group included in a single page
->] <2_agents.pdf, id=407, 433.62pt x 289.08pt>
+>] <2_agents.pdf, id=401, 433.62pt x 289.08pt>
 File: 2_agents.pdf Graphic file (type pdf)
  <use 2_agents.pdf>
-Package pdftex.def Info: 2_agents.pdf used on input line 210.
+Package pdftex.def Info: 2_agents.pdf used on input line 211.
 (pdftex.def)             Requested size: 173.44492pt x 115.62994pt.
 
-Overfull \hbox (2.22726pt too wide) in paragraph at lines 210--210
+Overfull \hbox (2.22726pt too wide) in paragraph at lines 211--211
  [] 
  []
 
-<10_agents.pdf, id=408, 433.62pt x 289.08pt>
+<10_agents.pdf, id=402, 433.62pt x 289.08pt>
 File: 10_agents.pdf Graphic file (type pdf)
  <use 10_agents.pdf>
-Package pdftex.def Info: 10_agents.pdf used on input line 210.
+Package pdftex.def Info: 10_agents.pdf used on input line 211.
 (pdftex.def)             Requested size: 156.10307pt x 104.06871pt.
 
-<50_agents.pdf, id=409, 433.62pt x 289.08pt>
+<50_agents.pdf, id=403, 433.62pt x 289.08pt>
 File: 50_agents.pdf Graphic file (type pdf)
  <use 50_agents.pdf>
-Package pdftex.def Info: 50_agents.pdf used on input line 210.
+Package pdftex.def Info: 50_agents.pdf used on input line 211.
 (pdftex.def)             Requested size: 156.10307pt x 104.06871pt.
 
-Overfull \vbox (9.31168pt too high) detected at line 210
- []
-
-
-Overfull \hbox (76.43083pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-
-Overfull \hbox (169.33415pt too wide) has occurred while \output is active
- [][]|  \T1/lmss/m/n/6 6
+Overfull \vbox (8.6452pt too high) detected at line 211
  []
 
 [6
@@ -1671,31 +1606,21 @@ fs with page group included in a single page
 
 pdfTeX warning: pdflatex.exe (file ./50_agents.pdf): PDF inclusion: multiple pd
 fs with page group included in a single page
->] <wind_distributions.pdf, id=544, 289.08pt x 216.81pt>
+>] <wind_distributions.pdf, id=537, 289.08pt x 216.81pt>
 File: wind_distributions.pdf Graphic file (type pdf)
 
 <use wind_distributions.pdf>
-Package pdftex.def Info: wind_distributions.pdf used on input line 242.
+Package pdftex.def Info: wind_distributions.pdf used on input line 243.
 (pdftex.def)             Requested size: 86.72466pt x 65.04349pt.
 
-<solar_distributions.pdf, id=545, 289.08pt x 216.81pt>
+<solar_distributions.pdf, id=538, 289.08pt x 216.81pt>
 File: solar_distributions.pdf Graphic file (type pdf)
 
 <use solar_distributions.pdf>
-Package pdftex.def Info: solar_distributions.pdf used on input line 242.
+Package pdftex.def Info: solar_distributions.pdf used on input line 243.
 (pdftex.def)             Requested size: 86.72466pt x 65.04349pt.
 
-Overfull \vbox (5.59651pt too high) detected at line 242
- []
-
-
-Overfull \hbox (76.43083pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-
-Overfull \hbox (169.33415pt too wide) has occurred while \output is active
- [][]|  \T1/lmss/m/n/6 7
+Overfull \vbox (4.93004pt too high) detected at line 243
  []
 
 [7
@@ -1709,82 +1634,52 @@ ltiple pdfs with page group included in a single page
 pdfTeX warning: pdflatex.exe (file ./solar_distributions.pdf): PDF inclusion: m
 ultiple pdfs with page group included in a single page
 >]
-Overfull \hbox (0.68936pt too wide) in paragraph at lines 304--304
+Overfull \hbox (0.68936pt too wide) in paragraph at lines 305--305
  [][][][]$\T1/lmss/m/sl/10.95 T[]$ 
  []
 
 
-Overfull \hbox (8.40706pt too wide) in paragraph at lines 304--304
+Overfull \hbox (8.40706pt too wide) in paragraph at lines 305--305
 [][]  
  []
 
-<power_curve.png, id=683, 380.01974pt x 302.3295pt>
+<power_curve.png, id=675, 380.01974pt x 302.3295pt>
 File: power_curve.png Graphic file (type png)
  <use power_curve.png>
-Package pdftex.def Info: power_curve.png used on input line 304.
+Package pdftex.def Info: power_curve.png used on input line 305.
 (pdftex.def)             Requested size: 71.13188pt x 56.58975pt.
 
-Overfull \vbox (5.08138pt too high) detected at line 304
- []
-
-
-Overfull \hbox (76.43083pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-
-Overfull \hbox (169.33415pt too wide) has occurred while \output is active
- [][]|  \T1/lmss/m/n/6 8
+Overfull \vbox (4.4149pt too high) detected at line 305
  []
 
 [8
 
- <./power_curve.png>] <Fig2.pdf, id=710, 614.295pt x 794.97pt>
+ <./power_curve.png>] <Fig2.pdf, id=701, 614.295pt x 794.97pt>
 File: Fig2.pdf Graphic file (type pdf)
 
 <use Fig2.pdf>
-Package pdftex.def Info: Fig2.pdf used on input line 336.
+Package pdftex.def Info: Fig2.pdf used on input line 337.
 (pdftex.def)             Requested size: 184.28992pt x 238.49284pt.
 
-Overfull \vbox (14.6671pt too high) detected at line 336
- []
-
-
-Overfull \hbox (76.43083pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-
-Overfull \hbox (169.33415pt too wide) has occurred while \output is active
- [][]|  \T1/lmss/m/n/6 9
+Overfull \vbox (14.00063pt too high) detected at line 337
  []
 
 [9
 
- <./Fig2.pdf>] <coals.pdf, id=803, 289.08pt x 216.81pt>
+ <./Fig2.pdf>] <coals.pdf, id=793, 289.08pt x 216.81pt>
 File: coals.pdf Graphic file (type pdf)
  <use coals.pdf>
-Package pdftex.def Info: coals.pdf used on input line 360.
+Package pdftex.def Info: coals.pdf used on input line 361.
 (pdftex.def)             Requested size: 144.53964pt x 108.40472pt.
 
-<fig8.pdf, id=804, 1084.05pt x 361.35pt>
+<fig8.pdf, id=794, 1084.05pt x 361.35pt>
 File: fig8.pdf Graphic file (type pdf)
  <use fig8.pdf>
-Package pdftex.def Info: fig8.pdf used on input line 360.
+Package pdftex.def Info: fig8.pdf used on input line 361.
 (pdftex.def)             Requested size: 325.21751pt x 108.40584pt.
 
-Overfull \hbox (127.32184pt too wide) in paragraph at lines 360--360
+Overfull \hbox (127.32184pt too wide) in paragraph at lines 361--361
  [][] 
- []
-
-
-Overfull \hbox (76.43083pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-
-Overfull \hbox (172.52165pt too wide) has occurred while \output is active
- [][]|  \T1/lmss/m/n/6 10
  []
 
 [10
@@ -1793,43 +1688,33 @@ Overfull \hbox (172.52165pt too wide) has occurred while \output is active
 
 pdfTeX warning: pdflatex.exe (file ./fig8.pdf): PDF inclusion: multiple pdfs wi
 th page group included in a single page
->] <Overlap.png, id=984, 1027.84pt x 791.95876pt>
+>] <Overlap.png, id=973, 1027.84pt x 791.95876pt>
 File: Overlap.png Graphic file (type png)
  <use Overlap.png>
-Package pdftex.def Info: Overlap.png used on input line 380.
+Package pdftex.def Info: Overlap.png used on input line 381.
 (pdftex.def)             Requested size: 154.16934pt x 118.78868pt.
 
-<resilience_tar_rand.pdf, id=986, 433.62pt x 289.08pt>
+<resilience_tar_rand.pdf, id=975, 433.62pt x 289.08pt>
 File: resilience_tar_rand.pdf Graphic file (type pdf)
 
 <use resilience_tar_rand.pdf>
-Package pdftex.def Info: resilience_tar_rand.pdf used on input line 380.
+Package pdftex.def Info: resilience_tar_rand.pdf used on input line 381.
 (pdftex.def)             Requested size: 151.76927pt x 101.1795pt.
 
-<resilience_without.pdf, id=987, 433.62pt x 289.08pt>
+<resilience_without.pdf, id=976, 433.62pt x 289.08pt>
 File: resilience_without.pdf Graphic file (type pdf)
 
 <use resilience_without.pdf>
-Package pdftex.def Info: resilience_without.pdf used on input line 380.
+Package pdftex.def Info: resilience_without.pdf used on input line 381.
 (pdftex.def)             Requested size: 151.76927pt x 101.1795pt.
 
-<resilience_with.pdf, id=988, 433.62pt x 289.08pt>
+<resilience_with.pdf, id=977, 433.62pt x 289.08pt>
 File: resilience_with.pdf Graphic file (type pdf)
  <use resilience_with.pdf>
-Package pdftex.def Info: resilience_with.pdf used on input line 380.
+Package pdftex.def Info: resilience_with.pdf used on input line 381.
 (pdftex.def)             Requested size: 151.76927pt x 101.1795pt.
 
-Overfull \vbox (8.14244pt too high) detected at line 380
- []
-
-
-Overfull \hbox (76.43083pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-
-Overfull \hbox (172.52165pt too wide) has occurred while \output is active
- [][]|  \T1/lmss/m/n/6 11
+Overfull \vbox (7.47597pt too high) detected at line 381
  []
 
 [11
@@ -1842,17 +1727,7 @@ ltiple pdfs with page group included in a single page
 
 pdfTeX warning: pdflatex.exe (file ./resilience_with.pdf): PDF inclusion: multi
 ple pdfs with page group included in a single page
->]
-Overfull \hbox (76.43083pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-
-Overfull \hbox (172.52165pt too wide) has occurred while \output is active
- [][]|  \T1/lmss/m/n/6 12
- []
-
-[12
+>] [12
 
 ]
 \tf@nav=\write6
@@ -1864,23 +1739,23 @@ Overfull \hbox (172.52165pt too wide) has occurred while \output is active
 \tf@snm=\write8
 \openout8 = `beamer.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 405.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 405.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 413.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 413.
  (./beamer.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 405.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 405.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 413.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 413.
 Package rerunfilecheck Info: File `beamer.out' has not changed.
 (rerunfilecheck)             Checksum: A06AD2FBCC92D2F2039C3FAE0B2822E4;289.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 405.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 413.
  ) 
 Here is how much of TeX's memory you used:
- 23277 strings out of 493488
- 454481 string characters out of 3144748
- 583320 words of memory out of 3000000
- 25915 multiletter control sequences out of 15000+200000
+ 23262 strings out of 493488
+ 454121 string characters out of 3144748
+ 582976 words of memory out of 3000000
+ 25900 multiletter control sequences out of 15000+200000
  62979 words of font info for 62 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 49i,16n,69p,908b,736s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 49i,15n,69p,908b,736s stack positions out of 5000i,500n,10000p,200000b,50000s
 {c:/texlive/2012/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{c:/texlive/2012
 /texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{c:/texlive/2012/texmf-dist/fonts/
 enc/dvips/lm/lm-mathit.enc}{c:/texlive/2012/texmf-dist/fonts/enc/dvips/lm/lm-ec
@@ -1900,10 +1775,10 @@ ts/type1/public/lm/lmsso8.pfb><c:/texlive/2012/texmf-dist/fonts/type1/public/lm
 xlive/2012/texmf-dist/fonts/type1/public/lm/lmtt8.pfb><c:/texlive/2012/texmf-di
 st/fonts/type1/public/amsfonts/symbols/msam7.pfb><c:/texlive/2012/texmf-dist/fo
 nts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on beamer.pdf (12 pages, 1912179 bytes).
+Output written on beamer.pdf (12 pages, 1910105 bytes).
 PDF statistics:
- 1248 PDF objects out of 1440 (max. 8388607)
- 608 compressed objects within 7 object streams
+ 1234 PDF objects out of 1440 (max. 8388607)
+ 596 compressed objects within 6 object streams
  47 named destinations out of 1000 (max. 500000)
  314 words of extra memory for PDF output out of 10000 (max. 10000000)
 
